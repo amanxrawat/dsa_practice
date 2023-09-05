@@ -41,7 +41,9 @@ void merge(int *arr,int start , int end){
     while(j< len2){
             arr[mainIndex++] = tempArr2[j++];
     }
-
+    // free memory
+    delete []tempArr1;
+    delete []tempArr2;
 }
 
 
