@@ -2,7 +2,7 @@
 using namespace std;
 #include<vector>
 #include<algorithm>
-// other than that we can first merge simply after m valuse of nums1 and then sort the resulting array;
+// other than that we can first merge simply after m value of nums1 and then sort the resulting array;
 
 void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
     int i=0,j=0;
