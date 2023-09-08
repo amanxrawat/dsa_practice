@@ -8,7 +8,7 @@ void sets(vector<int> nums, vector<int> output, int index, vector<vector<int>>& 
         return ;
     }
 
-    // exclude
+    //exclude
     sets(nums,output,index+1,ans);
     // include
     int element = nums[index];
