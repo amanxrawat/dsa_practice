@@ -1,0 +1,18 @@
+// 1464. Maximum Product of Two Elements in an Array
+
+// Given the array of integers nums, you will choose two different indices i and j of that array. 
+// Return the maximum value of (nums[i]-1)*(nums[j]-1).
+
+#include<iostream>
+#include<algorithm>
+#include<vector>
+
+using namespace std;
+
+
+    int maxProduct(vector<int>& nums) {
+        sort(nums.begin(),nums.end());
+
+        int last_index = nums.size()-1;
+        return (nums[last_index]-1)*(nums[last_index -1]-1);
+    }
