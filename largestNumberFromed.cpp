@@ -20,8 +20,8 @@ public:
 
 int main(){
     vector<string> ans = {"3", "30", "34", "5", "9"};
-    printLargest(5,ans);
-
-
+    Solution sol;
+    sol.printLargest(5,ans);
+    // printLargest(5,ans);
     return 0;
 }
