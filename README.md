@@ -9,9 +9,7 @@ Welcome to the **DSA Solutions Repository**, where I share my solutions to vario
 
 ## 🌟 Features
 
-- Solutions categorized by **topic** (e.g., Arrays, Trees, Graphs) and **difficulty level** (Easy, Medium, Hard).
-- Includes explanations, time complexity, and space complexity analysis for each solution.
-- Test cases for better understanding and validation.
+- problems are sotred according to there problem number in leetcode and some problems are sotred according to there name.
 - Regular updates with new problems and solutions.
 
 ---
