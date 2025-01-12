@@ -14,27 +14,7 @@ Welcome to the **DSA Solutions Repository**, where I share my solutions to vario
 
 ---
 
-## 📂 Folder Structure
 
-```
-root
-├── Arrays
-│   ├── Problem1.md
-│   ├── Problem2.cpp
-│   └── ...
-├── LinkedLists
-│   ├── Problem1.py
-│   ├── Problem2.java
-│   └── ...
-├── Trees
-│   ├── Problem1.js
-│   ├── Problem2.go
-│   └── ...
-├── Graphs
-│   ├── Problem1.cpp
-│   ├── Problem2.md
-│   └── ...
-└── README.md
 ```
 
 Each folder contains problems and solutions organized by topic, with code files or markdown files explaining the approach.
@@ -58,8 +38,8 @@ Each folder contains problems and solutions organized by topic, with code files 
 
 ## 🛠️ Tools & Languages Used
 
-- **Languages**: C++, Python, Java, JavaScript, Go
-- **Tools**: Visual Studio Code, CLion, IntelliJ IDEA, Git
+- **Languages**: C++
+- **Tools**: Visual Studio Code, Git
 
 ---
 
