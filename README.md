@@ -15,11 +15,6 @@ Welcome to the **DSA Solutions Repository**, where I share my solutions to vario
 ---
 
 
-```
-
-Each folder contains problems and solutions organized by topic, with code files or markdown files explaining the approach.
-
----
 
 ## 🚀 Topics Covered
 
@@ -53,19 +48,17 @@ Contributions are welcome! Follow these steps:
 4. Push to the branch: `git push origin feature/your-feature-name`.
 5. Submit a pull request.
 
----
-
+```
 ## 🧑‍💻 How to Use
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dsa-solutions.git
+   git clone (https://github.com/amanxrawat/dsa_practice)
    ```
 2. Navigate to the specific topic folder.
-3. Open the file to view the solution and explanation.
-4. Run the code in your preferred IDE or compiler.
+3. Run the code in your preferred IDE or compiler.
 
----
+
 
 ## 📈 Progress Tracking
 
@@ -104,4 +97,3 @@ This repository is licensed under the **MIT License**. Feel free to use and cont
 ---
 
 ### 🌟 If you like this repository, don’t forget to **star** it!
-```
